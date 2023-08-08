@@ -1,0 +1,220 @@
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+1
+Enter ID :
+1
+Enter Name:
+sreya roy
+Enter Age:
+25
+Enter email address:
+roy@gmail.com
+Enter Mobile No:
+01451278456
+Registration completed!
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+1
+Enter ID :
+2
+Enter Name:
+faruk ahmed
+Enter Age:
+36
+Enter email address:
+faruk@gmail.com
+Enter Mobile No:
+01754859568
+Registration completed!
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+2
+Enter Doctor Name: Dr. Anwar Hossain
+Specialist: Heart and Medicine
+Doctor E-mail: hossain@gnail.com
+Phone No: 01356858547
+Doctor added successfully!
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+4
+All patients:
+
+ID: 1
+Name: sreya roy
+Age: 25
+Email: roy@gmail.com
+Role: Patient
+ID: 2
+Name: faruk ahmed
+Age: 36
+Email: faruk@gmail.com
+Role: Patient
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+3
+All registered doctors:
+
+Name: Dr. Mahfuj Alam
+specialist: Medicine & Chest Diseases
+Email:  alammahfuj@gmail.com
+Role: Doctor
+mobile: 01784545784
+
+Name: Dr. Ayesha Begum
+specialist: Medicine & Neurology
+Email: ayesha4545@gmail.com
+Role: Doctor
+mobile: 01784702135
+
+Name: Dr. Forhadul Islam
+specialist: Consultant (Medicine)
+Email: forhad@gmail.com
+Role: Doctor
+mobile: 01487596555
+
+Name: Dr. Anwar Hossain
+specialist: Heart and Medicine
+Email: hossain@gnail.com
+Role: Doctor
+mobile: 01356858547
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+6
+All registered doctors:
+
+Name: Dr. Mahfuj Alam
+specialist: Medicine & Chest Diseases
+Email:  alammahfuj@gmail.com
+Role: Doctor
+mobile: 01784545784
+
+Name: Dr. Ayesha Begum
+specialist: Medicine & Neurology
+Email: ayesha4545@gmail.com
+Role: Doctor
+mobile: 01784702135
+
+Name: Dr. Forhadul Islam
+specialist: Consultant (Medicine)
+Email: forhad@gmail.com
+Role: Doctor
+mobile: 01487596555
+
+Name: Dr. Anwar Hossain
+specialist: Heart and Medicine
+Email: hossain@gnail.com
+Role: Doctor
+mobile: 01356858547
+
+
+Enter doctor name
+Dr. Ayesha Begum
+Specialist: Medicine and Neurology
+
+Appointment successfully booked to Dr. Ayesha Begum (Medicine and Neurology Specialist)
+
+Time of booking your appointment Sun Aug 06 22:50:59 2023
+
+Your appointment schedule:
+date: 7/8/2023
+Time: 8:00
+Make online payment 500 BDT
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+7
+Enter patient ID:
+2
+Disease name:
+Migraine
+Medicine name:
+Droperidol,Naratriptan
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+5
+Enter patient Id:
+2
+Patient Profile
+ID: 2
+Name: faruk ahmed
+Age: 36
+Email: faruk@gmail.com
+Role: Patient
+Disease: Migraine
+Medicine: Droperidol,Naratriptan
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           TELEMEDICINE SHEBA
+--------------------------------------------------------------------------------------------------------------------------------------
+
+     1. Add Patient Information              2. Add Doctor Information         3. Show Doctor list               4. Show Patient list
+     5. Show Patient personal details        6. Book Appointment               7. Prescribe patient              8. Leave
+
+8
+Leaving...
+
+
+
+
+
