@@ -1,0 +1,187 @@
+Output:
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                            RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+1
+Enter Name: Shormi Ghosh
+Enter Mobile No:01587946525
+Enter email address:shormi111@gmail.com
+Enter Location:khulna
+Enter Payment method:bkash
+Set Password: 1234ag
+
+Registration completed!
+Login Info
+Phone Number: 01587946525
+Your password is: 1234ag
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                             RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+1
+Enter Name:Tareq Rahman
+Enter Mobile No:01919320102
+Enter email address:rahman@gmail.com
+Enter Location:mirpur
+Enter Payment method:bkash
+Set Password: 8520a
+
+Registration completed!
+Login Info
+Phone Number: 01919320102
+Your password is: 8520a
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                              RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+2
+Enter Name:Nazim
+Enter Mobile No:0124578989856
+Enter Email Address:nazim@gmail.com
+Enter Location:keraniganj
+Enter Your Car:Alto 800
+Enter Your Licence:10006
+Registration completed!
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                              RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+3
+Driver's Profile
+Name: Faruk Ahmed
+Mobile: 01358974522
+Email: faruk@gmail.com
+Location: Mirpur 10,Dhaka
+Vehicle: AM General MV-1
+Licence: 10001
+
+Driver's Profile
+Name: Sheikh Miraj
+Mobile: 01457220350
+Email: miraj@gmail.com
+Location: Mirpur 2,Dhaka
+Vehicle: Acura MDX
+Licence: 10002
+
+Driver's Profile
+Name: Md. abu Taleb
+Mobile: 01358474527
+Email: abu1101@gmail.com
+Location: Keraniganj
+Vehicle: Tata Indigo ECS
+Licence: 10003
+
+Driver's Profile
+Name: Chinmoy Saha
+Mobile: 01785974572
+Email: saha78@gmail.com
+Location: SHEIKH MUJIB RD,Chittagong
+Vehicle: Acura TLX
+Licence: 10004
+
+Driver's Profile
+Name: Md Sumon
+Mobile: 01358457865
+Email: sumon551@gmail.com
+Location: CDA AVENUE
+Vehicle: Suzuki Alto 800
+Licence: 10005
+
+Driver's Profile
+Name: Nazim
+Mobile: 0124578989856
+Email: nazim@gmail.com
+Location: keraniganj
+Vehicle: Alto 800
+Licence: 10006
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                           RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+4
+Enter password 8520a
+Enter your current location: Dhaka
+Enter destination: Chittagong
+Making a trip from Dhaka to Chittagong
+Driver with licence 10004 is in proximity to you
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                            RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+6
+Enter driver's licence number: 10004
+Driver's Profile
+Name: Chinmoy Saha
+Mobile: 01785974572
+Email: saha78@gmail.com
+Location: SHEIKH MUJIB RD,Chittagong
+Vehicle: Acura TLX
+Licence: 10004
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                               RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+
+7
+
+Enter latitude and longitude of your current location: 23.8041 90.4152
+
+Enter latitude and longitude of your destination: 22.3752 91.8349
+
+You have to pay 2152.47 taka.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                                RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+
+5
+Login
+Enter mobile no: 01919320102
+Enter password: 8520a
+Passenger's Profile
+Name: Tareq Rahman
+Mobile: 01919320102
+Email: rahman@gmail.com
+Location: mirpur
+Payment method: bkash
+Booked a trip from Dhaka to Chittagong on date 2023-9-24
+Driver's licence no: 10004
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                                 RIDE SHARE
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   1. Sign up as passenger                 2. Register as driver         3. Show driver list               4. Request a trip
+   5. Login to passenger's profile         6. Show my driver             7. Make payment                   8. Leave
+8
+Leaving app...
+
+
+
+
